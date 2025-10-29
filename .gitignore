@@ -1,0 +1,9 @@
+.vscode/
+.alpackages/
+.snapshots/
+app.json
+*.json
+launch.json
+*.app
+
+
