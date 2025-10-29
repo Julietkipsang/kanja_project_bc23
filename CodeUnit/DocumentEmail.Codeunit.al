@@ -8,6 +8,7 @@ codeunit 50104 "Document & Email Management"
     var
         TempExcelBuffer: Record "Excel Buffer" temporary;
 
+
     procedure CreateWithoutAttatchmentMessage(SenderName: Text; SenderAddress: Text; Recipients: Text; Subject: Text; Body: Text)
     var
         Mail: Codeunit "Email Message";
