@@ -24,6 +24,7 @@ page 50045 "Organisation List"
                 {
                     ApplicationArea = all;
                 }
+
                 field("Phone No."; Rec."Phone No.")
                 {
                     ApplicationArea = all;
